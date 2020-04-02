@@ -3,7 +3,7 @@ Route planning program (Paris subway network)
 
 The s.csv is the offcial list of every subway stations, and c.csv the official list of connections.
 
-Run the MakeFile, then type into command line the type of search (if you wish to identify the stations by name or id from which station to which you would like to travel, as followed :
+Run the MakeFile, then type into command line the type of search (if you wish to identify the stations by name or id), then the name/id of the start station and the name/id of the end station, as followed :
 
 ./my_prog "s.csv" "c.csv" name START_STATION_NAME END_STATION_NAME
 
