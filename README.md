@@ -7,7 +7,7 @@ Run the MakeFile, then type into command line the type of search (if you wish to
 
 `./my_prog "s.csv" "c.csv" name START_STATION_NAME END_STATION_NAME` 
 
-for example : `./my_prog "s.csv" "c.csv" voltaire bastille`
+for example : `./my_prog "s.csv" "c.csv" name voltaire bastille`
 
 
 result :
