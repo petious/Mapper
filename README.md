@@ -13,6 +13,7 @@ for example : ./my_prog "s.csv" "c.csv" voltaire bastille
 result :
 
 voltaire not found. Best match : Voltaire (Léon Blum)
+
 bastille not found. Best match : Bastille
 
 Best way from Voltaire (Léon Blum) (line 9) to Bastille (line 8) : 
