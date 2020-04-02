@@ -13,20 +13,15 @@ for example : `./my_prog "s.csv" "c.csv" voltaire bastille`
 result :
 
 `voltaire not found. Best match : Voltaire (Léon Blum)
-
 bastille not found. Best match : Bastille
 
 Best way from Voltaire (Léon Blum) (line 9) to Bastille (line 8) : 
-
 Take line 9 (PONT DE SEVRES <-> MAIRIE DE MONTREUIL) - Retour
-
 From Voltaire (Léon Blum) to Oberkampf (208 s)
-
 Walk to Oberkampf, line 5 (98 s)
-
 Take line 5 (BOBIGNY - PABLO PICASSO <-> PLACE D'ITALIE) - Aller
-
 From Oberkampf to Bastille (320 s)
-
 Walk to Bastille, line 8 (180 s)`
+
+
 
