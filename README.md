@@ -7,24 +7,26 @@ Run the MakeFile, then type into command line the type of search (if you wish to
 
 `./my_prog "s.csv" "c.csv" name START_STATION_NAME END_STATION_NAME` 
 
-for example : `./mon_prog "s.csv" "c.csv" name voltaire bastile`
+for example : `./mon_prog "s.csv" "c.csv" name voltaire poisoniere`
 
 
 result :
 
 ```
 voltaire not found. Best match : Voltaire (Léon Blum)
-bastile not found. Best match : Bastille
+poisoniere not found. Best match : Poissonnière
 
-Best way from Voltaire (Léon Blum) (line 9) to Bastille (line 8) : 
+Best way from Voltaire (Léon Blum) (line 9) to Poissonnière (line 7) : 
 
 Take line 9 (PONT DE SEVRES <-> MAIRIE DE MONTREUIL) - Retour
-From Voltaire (Léon Blum) to Oberkampf (208 s)
-Walk to Oberkampf, line 5 (98 s)
+From Voltaire (Léon Blum) to République (316 s)
+Walk to République, line 5 (105 s)
 Take line 5 (BOBIGNY - PABLO PICASSO <-> PLACE D'ITALIE) - Aller
-From Oberkampf to Bastille (320 s)
-Walk to Bastille, line 8 (180 s)
+From République to Gare de l'Est (Verdun) (271 s)
+Walk to Gare de l'Est (Verdun), line 7 (15 s)
+Take line 7 (LA COURNEUVE - 8 MAI 1945 <-> VILLEJUIF-L. ARAGON / MAIRIE D'IVRY) - Retour
+From Gare de l'Est (Verdun) to Poissonnière (141 s)
 
-After 806 seconds, you've reached your destination !
+After 848 seconds, you've reached your destination !
 ```
 
