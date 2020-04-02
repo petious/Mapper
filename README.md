@@ -28,5 +28,5 @@ Take line 5 (BOBIGNY - PABLO PICASSO <-> PLACE D'ITALIE) - Aller
 
 From Oberkampf to Bastille (320 s)
 
-Walk to Bastille, line 8 (180 s)
+Walk to Bastille, line 8 (180 s)`
 
