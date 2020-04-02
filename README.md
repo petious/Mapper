@@ -1,5 +1,5 @@
 # Mapper
-Route planning program (Paris subway network)
+Route planning program (Paris subway network): computes the best travel itinerary between two stations. 
 
 The s.csv is the offcial list of every subway stations, and c.csv the official list of connections.
 
