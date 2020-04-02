@@ -12,7 +12,8 @@ for example : `./mon_prog "s.csv" "c.csv" name voltaire bastile`
 
 result :
 
-```voltaire not found. Best match : Voltaire (Léon Blum)
+```
+voltaire not found. Best match : Voltaire (Léon Blum)
 bastile not found. Best match : Bastille
 
 Best way from Voltaire (Léon Blum) (line 9) to Bastille (line 8) : 
@@ -24,5 +25,6 @@ Take line 5 (BOBIGNY - PABLO PICASSO <-> PLACE D'ITALIE) - Aller
 From Oberkampf to Bastille (320 s)
 Walk to Bastille, line 8 (180 s)
 
-After 806 seconds, you've reached your destination !```
+After 806 seconds, you've reached your destination !
+```
 
