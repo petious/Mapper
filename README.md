@@ -1,18 +1,18 @@
 # Mapper
 Route planning program (Paris subway network): computes the best travel itinerary between two stations. 
 
-The s.csv is the offcial list of every subway stations, and c.csv the official list of connections.
+The `s.csv` is the offcial list of every subway stations, and `c.csv` the official list of connections.
 
 Run the MakeFile, then type into command line the type of search (if you wish to identify the stations by name or id), then the name/id of the start station and the name/id of the end station, as followed :
 
-./my_prog "s.csv" "c.csv" name START_STATION_NAME END_STATION_NAME
+`./my_prog "s.csv" "c.csv" name START_STATION_NAME END_STATION_NAME` 
 
-for example : ./my_prog "s.csv" "c.csv" voltaire bastille
+for example : `./my_prog "s.csv" "c.csv" voltaire bastille`
 
 
 result :
 
-voltaire not found. Best match : Voltaire (Léon Blum)
+`voltaire not found. Best match : Voltaire (Léon Blum)
 
 bastille not found. Best match : Bastille
 
